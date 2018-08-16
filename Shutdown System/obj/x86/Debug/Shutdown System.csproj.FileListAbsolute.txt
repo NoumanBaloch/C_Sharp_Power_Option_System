@@ -1,0 +1,10 @@
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\bin\Debug\Shutdown System.exe
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\bin\Debug\Shutdown System.pdb
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown_System.Form1.resources
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown_System.Properties.Resources.resources
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.csproj.GenerateResource.Cache
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.exe
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.pdb
+C:\Users\NoumanBaloch\Desktop\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.csprojResolveAssemblyReference.cache
+D:\C# Code\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.exe
+D:\C# Code\Shutdown System\Shutdown System\obj\x86\Debug\Shutdown System.pdb
